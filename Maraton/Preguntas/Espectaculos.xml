@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfPregunta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el nombre del ultimo album de los Beatles?</PreguntaTexto>
+		<Opcion1>White Album</Opcion1>
+		<Opcion2>Imagine</Opcion2>
+		<Opcion3>Let it be</Opcion3>
+		<Respuesta>Let it be</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el nombre del protagonista de la mas reciente versión de la pelicula de Titanic?</PreguntaTexto>
+		<Opcion1>Leonardo Di Caprio</Opcion1>
+		<Opcion2>Brad Pitt</Opcion2>
+		<Opcion3>Matt Damon</Opcion3>
+		<Respuesta>Leonardo Di Caprio</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién dirigio la pelicula "Parque Jurasico"?</PreguntaTexto>
+		<Opcion1>Woody Allen</Opcion1>
+		<Opcion2>Martin Scorsese</Opcion2>
+		<Opcion3>Steven Spilberg</Opcion3>
+		<Respuesta>Steven Spilberg</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De donde es originario el grupo musical U2?</PreguntaTexto>
+		<Opcion1>Estados Unidos</Opcion1>
+		<Opcion2>Inglaterra</Opcion2>
+		<Opcion3>Irlanda</Opcion3>
+		<Respuesta>Irlanda</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántos integrantes conformaban el Grupo Kiss?</PreguntaTexto>
+		<Opcion1>6</Opcion1>
+		<Opcion2>4</Opcion2>
+		<Opcion3>5</Opcion3>
+		<Respuesta>4</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué multinacional petrolera aparece patrocinando un equipo automovilístico en la más reciente película de Meteoro (2008)? </PreguntaTexto>
+		<Opcion1>ExxonMobil</Opcion1>
+		<Opcion2>Petrobras</Opcion2>
+		<Opcion3>Pemex</Opcion3>
+		<Respuesta>Petrobras</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué actor mexicano protagonizo "El Bolero de Raquel"?</PreguntaTexto>
+		<Opcion1>Antonio Espino y Mora "Clavillazo"</Opcion1>
+		<Opcion2>Mario Moreno "Cantinflas"</Opcion2>
+		<Opcion3>Adalberto Martinez"Resortes"</Opcion3>
+		<Respuesta>Mario Moreno "Cantinflas"</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién es considerada la "Princesa del Pop"?</PreguntaTexto>
+		<Opcion1>Britney Spears</Opcion1>
+		<Opcion2>Cristina Aguilera</Opcion2>
+		<Opcion3>Madonna</Opcion3>
+		<Respuesta>Britney Spears</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién es considerada la "Reyna del Pop"?</PreguntaTexto>
+		<Opcion1>Cristina Aguilera</Opcion1>
+		<Opcion2>Britney Spears</Opcion2>
+		<Opcion3>Madonna</Opcion3>
+		<Respuesta>Madonna</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién es considerado el "Rey del Pop"?</PreguntaTexto>
+		<Opcion1>Robie Williams</Opcion1>
+		<Opcion2>Michael Jackson</Opcion2>
+		<Opcion3>Chris Brown</Opcion3>
+		<Respuesta>Michael Jackson</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿A que cantante mexicano se le conoce como "El Principe de la Cancion"?</PreguntaTexto>
+		<Opcion1>Juan Gabriel</Opcion1>
+		<Opcion2>Jose Jose</Opcion2>
+		<Opcion3>Vicente Fernandez</Opcion3>
+		<Respuesta>Jose Jose</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién es considerado el" Rey del Rock and Roll"?</PreguntaTexto>
+		<Opcion1>Johny Laboriel</Opcion1>
+		<Opcion2>James Blunt</Opcion2>
+		<Opcion3>Elvis Presley</Opcion3>
+		<Respuesta>Elvis Presley</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál de los siguientes cantantes NO estuvo en el reality show de Tv Azteca "La Academia"?</PreguntaTexto>
+		<Opcion1>Aranza</Opcion1>
+		<Opcion2>Nadia</Opcion2>
+		<Opcion3>Miguel Angel</Opcion3>
+		<Respuesta>Aranza</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En qué película busca Jim Carrey a 'Copo de Nieve' la mascota de los Miami Dolphins? </PreguntaTexto>
+		<Opcion1>Irene, yo y mi Otro Yo</Opcion1>
+		<Opcion2>La Busqueda de Copo de Nieve</Opcion2>
+		<Opcion3>Ace Ventua</Opcion3>
+		<Respuesta>Ace Ventua</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué actor protagonizo la trilogia de peliculas "Volver al Futuro"?</PreguntaTexto>
+		<Opcion1>Christopher Lloyd</Opcion1>
+		<Opcion2>Michael J. Fox</Opcion2>
+		<Opcion3>Miguel Angel Fox</Opcion3>
+		<Respuesta>Michael J. Fox</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué actriz participo en las peliculas "Volver al Futuro" y "Karate Kid "ambas con el mismo papel, novia del protagonista?</PreguntaTexto>
+		<Opcion1>Elisabeth Shue</Opcion1>
+		<Opcion2>Claudia Wells</Opcion2>
+		<Opcion3>Sharon Stone</Opcion3>
+		<Respuesta>Elisabeth Shue</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál de las siguientes peliculas no protagonizo Johhny Deep?</PreguntaTexto>
+		<Opcion1>Erase una vez en México</Opcion1>
+		<Opcion2>Los Piratas del Caribe: La Maldicion del Perla Negra</Opcion2>
+		<Opcion3>Descubriendo el Pais de Nunca Jamas</Opcion3>
+		<Respuesta>Erase una vez en México</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál de las siguientes parejas de actores protagonizo el Film "Sr. y Sra Smith"?</PreguntaTexto>
+		<Opcion1>Antonio Banderas y Catherine Z. Jones</Opcion1>
+		<Opcion2>Brad Pitt y Angelina Jolie</Opcion2>
+		<Opcion3>Tom Cruise y Katie Holmes</Opcion3>
+		<Respuesta>Brad Pitt y Angelina Jolie</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Junto a que dibujos animados Michael Jordan protagonizo la pelicula "Space Jam"?</PreguntaTexto>
+		<Opcion1>Animaniacs</Opcion1>
+		<Opcion2>Tinny Toons</Opcion2>
+		<Opcion3>Looney Tunes</Opcion3>
+		<Respuesta>Looney Tunes</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál de las siguintes peliculas no fue producida por Disney y Pixar?</PreguntaTexto>
+		<Opcion1>Buscando a Nemo</Opcion1>
+		<Opcion2>La Era de Hielo</Opcion2>
+		<Opcion3>Bichos</Opcion3>
+		<Respuesta>La Era de Hielo</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál de las siguientes series animadas fue producida por Steven Spielberg?</PreguntaTexto>
+		<Opcion1>Looney Tunes</Opcion1>
+		<Opcion2>Animaniacs</Opcion2>
+		<Opcion3>La Pantera Rosa</Opcion3>
+		<Respuesta>Animaniacs</Respuesta>
+	</Pregunta>
+</ArrayOfPregunta>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfPregunta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Pregunta>
+		<PreguntaTexto>¿En que año se fundo el Estado de Israel?</PreguntaTexto>
+		<Opcion1>1801</Opcion1>
+		<Opcion2>1948</Opcion2>
+		<Opcion3>1920</Opcion3>
+		<Respuesta>1948</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué pais controlo el suministro del te hasta el Siglo XIX?</PreguntaTexto>
+		<Opcion1>Japón</Opcion1>
+		<Opcion2>China</Opcion2>
+		<Opcion3>India</Opcion3>
+		<Respuesta>China</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que pais se invento el impuesto sobre la Renta?</PreguntaTexto>
+		<Opcion1>Argentina</Opcion1>
+		<Opcion2>México</Opcion2>
+		<Opcion3>Francia</Opcion3>
+		<Respuesta>Francia</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué pais americano es el unico que no era colonia a finales del Siglo XVIII?</PreguntaTexto>
+		<Opcion1>Canada</Opcion1>
+		<Opcion2>Argentina</Opcion2>
+		<Opcion3>Estados Unidos</Opcion3>
+		<Respuesta>Estados Unidos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De que morian las victimas de los sacrificios aztecas?</PreguntaTexto>
+		<Opcion1>Al arrancarles el corazon</Opcion1>
+		<Opcion2>Ahogados en pozos</Opcion2>
+		<Opcion3>Quemados en la hoguera</Opcion3>
+		<Respuesta>Al arrancarles el corazon</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>China se volvio comunista en el año de…</PreguntaTexto>
+		<Opcion1>1917</Opcion1>
+		<Opcion2>1949</Opcion2>
+		<Opcion3>1969</Opcion3>
+		<Respuesta>1949</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es la moneda oficial de Polonia?</PreguntaTexto>
+		<Opcion1>Dólar</Opcion1>
+		<Opcion2>Zloty</Opcion2>
+		<Opcion3>Libra</Opcion3>
+		<Respuesta>Zloty</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué pais ataco en Pearl Harbor a Estados Unidos el 7 de diciembre de 1941?</PreguntaTexto>
+		<Opcion1>Japón</Opcion1>
+		<Opcion2>China</Opcion2>
+		<Opcion3>Rusia</Opcion3>
+		<Respuesta>Japón</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cómo murio Marco Antonio?</PreguntaTexto>
+		<Opcion1>Se suicido</Opcion1>
+		<Opcion2>Lo mataron</Opcion2>
+		<Opcion3>De Muerte Natural</Opcion3>
+		<Respuesta>Se suicido</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién invento el revolver en el Siglo XIX?</PreguntaTexto>
+		<Opcion1>Mark Zetme</Opcion1>
+		<Opcion2>Samuel Colt</Opcion2>
+		<Opcion3>Wiliam Penn</Opcion3>
+		<Respuesta>Samuel Colt</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>El Primer presidente negro en Sudafrica fue…</PreguntaTexto>
+		<Opcion1>Roberto Mugabe</Opcion1>
+		<Opcion2>Desmond Tutu</Opcion2>
+		<Opcion3>Nelson Mandela</Opcion3>
+		<Respuesta>Nelson Mandela</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>El Año en que se realizo el primer transplante de Corazon fue…</PreguntaTexto>
+		<Opcion1>1900</Opcion1>
+		<Opcion2>1967</Opcion2>
+		<Opcion3>1980</Opcion3>
+		<Respuesta>1967</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que ciudad alemana se dispara el ultimo tiro de la Segunda Guerra Mundial?</PreguntaTexto>
+		<Opcion1>Hamburgo</Opcion1>
+		<Opcion2>Berlin</Opcion2>
+		<Opcion3>Munich</Opcion3>
+		<Respuesta>Berlin</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que isla nacio Napoleon Bonaparte?</PreguntaTexto>
+		<Opcion1>Sicilia</Opcion1>
+		<Opcion2>Santa Elena</Opcion2>
+		<Opcion3>Corcega</Opcion3>
+		<Respuesta>Corcega</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el actual nombre de la antes llamada ciudad de "Constantinopla"?</PreguntaTexto>
+		<Opcion1>Estambul</Opcion1>
+		<Opcion2>Jerusalen</Opcion2>
+		<Opcion3>Babilonia</Opcion3>
+		<Respuesta>Estambul</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quiénes lucharon en la batalla del Alamo?</PreguntaTexto>
+		<Opcion1>Mexicanos y Tejanos</Opcion1>
+		<Opcion2>Franceses y Españoles</Opcion2>
+		<Opcion3>Mexicanos y Franceses</Opcion3>
+		<Respuesta>Mexicanos y Tejanos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De donde es originaria la paella?</PreguntaTexto>
+		<Opcion1>Valencia</Opcion1>
+		<Opcion2>Bilbao</Opcion2>
+		<Opcion3>La Coruña</Opcion3>
+		<Respuesta>Valencia</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que año se retiro Estados Unidos de Vietnam?</PreguntaTexto>
+		<Opcion1>1983</Opcion1>
+		<Opcion2>1973</Opcion2>
+		<Opcion3>1963</Opcion3>
+		<Respuesta>1973</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién escribio la reforma protestante?</PreguntaTexto>
+		<Opcion1>Martin Luther King</Opcion1>
+		<Opcion2>Juan Calvario</Opcion2>
+		<Opcion3>Martin Lutero</Opcion3>
+		<Respuesta>Martin Lutero</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>El hombre piso la luna por primera vez en…</PreguntaTexto>
+		<Opcion1>1969</Opcion1>
+		<Opcion2>1899</Opcion2>
+		<Opcion3>1979</Opcion3>
+		<Respuesta>1969</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Clase Guerrera de Japón</PreguntaTexto>
+		<Opcion1>Kamikase</Opcion1>
+		<Opcion2>Samurai</Opcion2>
+		<Opcion3>Mercenarios</Opcion3>
+		<Respuesta>Samurai</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántos viajos realizo Cristobal Colon a America?</PreguntaTexto>
+		<Opcion1>2</Opcion1>
+		<Opcion2>4</Opcion2>
+		<Opcion3>1</Opcion3>
+		<Respuesta>4</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién fue derrotado en la batalla de Waterloo?</PreguntaTexto>
+		<Opcion1>Napoleon Bonaparte</Opcion1>
+		<Opcion2>El General Enrique V</Opcion2>
+		<Opcion3>Adolf Hittler</Opcion3>
+		<Respuesta>Napoleon Bonaparte</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién conquistaron China en el Siglo XVIII y fundaron la dinastia Yuan?</PreguntaTexto>
+		<Opcion1>Los Celtas</Opcion1>
+		<Opcion2>Los Japoneses</Opcion2>
+		<Opcion3>Los Mongoles</Opcion3>
+		<Respuesta>Los Mongoles</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué gobernante de China la hizo una potencia mundial?</PreguntaTexto>
+		<Opcion1>Mao Zedong</Opcion1>
+		<Opcion2>Mao Tse Tung</Opcion2>
+		<Opcion3>Jian Zening</Opcion3>
+		<Respuesta>Mao Tse Tung</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién invento la Imprenta?</PreguntaTexto>
+		<Opcion1>Alexander Graham Bell</Opcion1>
+		<Opcion2>John Louis Von Neumann</Opcion2>
+		<Opcion3>Johanes Gutember</Opcion3>
+		<Respuesta>Johanes Gutember</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién encabezo la marcha de la sal?</PreguntaTexto>
+		<Opcion1>Mahatma Gandhi</Opcion1>
+		<Opcion2>Mao Tse Tung</Opcion2>
+		<Opcion3>Mao Zedong</Opcion3>
+		<Respuesta>Mahatma Gandhi</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué pais derroto a los Nazis por primera vez?</PreguntaTexto>
+		<Opcion1>Inglaterra</Opcion1>
+		<Opcion2>Japón</Opcion2>
+		<Opcion3>Rusia</Opcion3>
+		<Respuesta>Rusia</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es nombre del navegante español que descubrio el terrotorio de Mexico?</PreguntaTexto>
+		<Opcion1>Juan Diaz Solis</Opcion1>
+		<Opcion2>Hernan Cortez</Opcion2>
+		<Opcion3>Anton de Alaminos</Opcion3>
+		<Respuesta>Anton de Alaminos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué articulo introdujeron los Ingleses a China?</PreguntaTexto>
+		<Opcion1>Café</Opcion1>
+		<Opcion2>Opio</Opcion2>
+		<Opcion3>Oro</Opcion3>
+		<Respuesta>Opio</Respuesta>
+	</Pregunta>
+</ArrayOfPregunta>

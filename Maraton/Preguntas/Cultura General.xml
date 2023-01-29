@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfPregunta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Pregunta>
+		<PreguntaTexto>¿Qué libro ademas de la Biblia, a alcanzado el mayor numero de traducciones?</PreguntaTexto>
+		<Opcion1>El Quijote de la Mancha</Opcion1>
+		<Opcion2>Cien años de Soledad</Opcion2>
+		<Opcion3>Zorba el Griego</Opcion3>
+		<Respuesta>El Quijote de la Mancha</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién escribio la obra "El Coronel no tiene quien le escriba"?</PreguntaTexto>
+		<Opcion1>Carlos Cuahtemoc Sanchez</Opcion1>
+		<Opcion2>Federico Garcia Lorca</Opcion2>
+		<Opcion3>Gabriel Garcia Marquez</Opcion3>
+		<Respuesta>Gabriel Garcia Marquez</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Con que instrumento musical se puede hacer un redoble?</PreguntaTexto>
+		<Opcion1>Tambor</Opcion1>
+		<Opcion2>Flauta</Opcion2>
+		<Opcion3>Guitarra</Opcion3>
+		<Respuesta>Tambor</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Sion y Calvarios son 2 de los 3 montes biblicos ¿Cuál es el nombre del tercero?</PreguntaTexto>
+		<Opcion1>Zagros</Opcion1>
+		<Opcion2>Sinai</Opcion2>
+		<Opcion3>Balcanes</Opcion3>
+		<Respuesta>Sinai</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué nombre se le da a la mecha de la vela?</PreguntaTexto>
+		<Opcion1>pilo</Opcion1>
+		<Opcion2>cerilla</Opcion2>
+		<Opcion3>pabilo</Opcion3>
+		<Respuesta>pabilo</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué nombre se les da a los sacerdotes del Budismo?</PreguntaTexto>
+		<Opcion1>Bonzos</Opcion1>
+		<Opcion2>Curas</Opcion2>
+		<Opcion3>Rabinos</Opcion3>
+		<Respuesta>Bonzos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Quién fue el fundador de la compañía Microsoft?</PreguntaTexto>
+		<Opcion1>Bill Gates</Opcion1>
+		<Opcion2>Jerry Yang</Opcion2>
+		<Opcion3>Fernando Espuelas</Opcion3>
+		<Respuesta>Bill Gates</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿A cuantos grados Farenheit equivalen 0 grados centigrados?</PreguntaTexto>
+		<Opcion1>100</Opcion1>
+		<Opcion2>26</Opcion2>
+		<Opcion3>32</Opcion3>
+		<Respuesta>32</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué famoso pintor realizo el cuadro conocido como "La Ultima Cena"?</PreguntaTexto>
+		<Opcion1>Miguel Anguel</Opcion1>
+		<Opcion2>Diego Rivera</Opcion2>
+		<Opcion3>Leonardo Da Vinci</Opcion3>
+		<Respuesta>Leonardo Da Vinci</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué significa el sufijo "itis" en algunas enfermedades como por ejemplo: faringitis?</PreguntaTexto>
+		<Opcion1>Inflamacion</Opcion1>
+		<Opcion2>Alteracion</Opcion2>
+		<Opcion3>Congestion</Opcion3>
+		<Respuesta>Inflamacion</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el prefijo en la palabra "Antologia"?</PreguntaTexto>
+		<Opcion1>A</Opcion1>
+		<Opcion2>Anto</Opcion2>
+		<Opcion3>Logia</Opcion3>
+		<Respuesta>Anto</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el antonimo de la palabra "Belleza"?</PreguntaTexto>
+		<Opcion1>Fealdad</Opcion1>
+		<Opcion2>Hermosura</Opcion2>
+		<Opcion3>Bellisimo</Opcion3>
+		<Respuesta>Fealdad</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que pais se encuentra "El Palacio de Versalles"?</PreguntaTexto>
+		<Opcion1>Francia</Opcion1>
+		<Opcion2>India</Opcion2>
+		<Opcion3>Portugal</Opcion3>
+		<Respuesta>Francia</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántos minutos hay en un lapso de 2 dias?</PreguntaTexto>
+		<Opcion1>1440</Opcion1>
+		<Opcion2>2480</Opcion2>
+		<Opcion3>2880</Opcion3>
+		<Respuesta>2880</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que pais de America del Sur se baila el joropo?</PreguntaTexto>
+		<Opcion1>Venezuela</Opcion1>
+		<Opcion2>Brazil</Opcion2>
+		<Opcion3>Uruguay</Opcion3>
+		<Respuesta>Venezuela</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántas onzas tiene una libra?</PreguntaTexto>
+		<Opcion1>16</Opcion1>
+		<Opcion2>23</Opcion2>
+		<Opcion3>31</Opcion3>
+		<Respuesta>16</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cómo se le llama a los Sismos Marinos?</PreguntaTexto>
+		<Opcion1>Terremotos</Opcion1>
+		<Opcion2>Huracanes</Opcion2>
+		<Opcion3>Maremotos</Opcion3>
+		<Respuesta>Maremotos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cómo se llama a la composicion poetica donde las letras iniciales de cada renglon forman un nombre?</PreguntaTexto>
+		<Opcion1>Acrostico</Opcion1>
+		<Opcion2>Soneto</Opcion2>
+		<Opcion3>Pleonasmo</Opcion3>
+		<Respuesta>Acrostico</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el nombre que se le da en Argentina al combustible que utilizan los autos?</PreguntaTexto>
+		<Opcion1>Gasolina</Opcion1>
+		<Opcion2>Nafta</Opcion2>
+		<Opcion3>Benzina</Opcion3>
+		<Respuesta>Nafta</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿A que pais latinoamericano pertenece la ciudad de Cochabamba?</PreguntaTexto>
+		<Opcion1>Bolivia</Opcion1>
+		<Opcion2>Paraguay </Opcion2>
+		<Opcion3>Argentina</Opcion3>
+		<Respuesta>Bolivia</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cómo se llama el grupo terrorista Peruano?</PreguntaTexto>
+		<Opcion1>ETA</Opcion1>
+		<Opcion2>Sendero Luminoso</Opcion2>
+		<Opcion3>Movimiento Obrero Revolucionario</Opcion3>
+		<Respuesta>Sendero Luminoso</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Es el apocope de la palabra grande...</PreguntaTexto>
+		<Opcion1>Grandisimo</Opcion1>
+		<Opcion2>Granderrimo</Opcion2>
+		<Opcion3>Gran</Opcion3>
+		<Respuesta>Gran</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuáles son las siglas del grupo terrorista vasco mas importante?</PreguntaTexto>
+		<Opcion1>EZLN</Opcion1>
+		<Opcion2>ETA</Opcion2>
+		<Opcion3>ERI</Opcion3>
+		<Respuesta>ETA</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Según una obra literaria arabe ¿Cuántos cuentos le conto Scherezada a su esposo?</PreguntaTexto>
+		<Opcion1>1000</Opcion1>
+		<Opcion2>1001</Opcion2>
+		<Opcion3>1100</Opcion3>
+		<Respuesta>1001</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el nombre de pila del "Che" Guevara?</PreguntaTexto>
+		<Opcion1>Ernesto</Opcion1>
+		<Opcion2>Alberto</Opcion2>
+		<Opcion3>Enrique</Opcion3>
+		<Respuesta>Ernesto</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué idioma oficial se habla en la Republica de Tunez?</PreguntaTexto>
+		<Opcion1>Arabe</Opcion1>
+		<Opcion2>Ingles </Opcion2>
+		<Opcion3>Frances</Opcion3>
+		<Respuesta>Arabe</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que año fue la Independencia de Mexico?</PreguntaTexto>
+		<Opcion1>1810</Opcion1>
+		<Opcion2>1821</Opcion2>
+		<Opcion3>1900</Opcion3>
+		<Respuesta>1821</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De cuantas silabas se compone un verso endecasilabo?</PreguntaTexto>
+		<Opcion1>9</Opcion1>
+		<Opcion2>10</Opcion2>
+		<Opcion3>11</Opcion3>
+		<Respuesta>11</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es la capital de España?</PreguntaTexto>
+		<Opcion1>Valencia</Opcion1>
+		<Opcion2>Barcelona</Opcion2>
+		<Opcion3>Madrid</Opcion3>
+		<Respuesta>Madrid</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es la enfermedad de la vista que produce opacidad del Cristalino?</PreguntaTexto>
+		<Opcion1>Miopia</Opcion1>
+		<Opcion2>Estrabismo</Opcion2>
+		<Opcion3>Cataratas</Opcion3>
+		<Respuesta>Cataratas</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué pais es famoso por sus molinos de Viento?</PreguntaTexto>
+		<Opcion1>Suiza</Opcion1>
+		<Opcion2>Holanda</Opcion2>
+		<Opcion3>Suecia</Opcion3>
+		<Respuesta>Holanda</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que pais asiatico es ilegal mascar chicle?</PreguntaTexto>
+		<Opcion1>Singapur</Opcion1>
+		<Opcion2>India</Opcion2>
+		<Opcion3>China</Opcion3>
+		<Respuesta>Singapur</Respuesta>
+	</Pregunta>
+</ArrayOfPregunta>

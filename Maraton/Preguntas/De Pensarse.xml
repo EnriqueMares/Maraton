@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfPregunta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Pregunta>
+		<PreguntaTexto>¿Cuánto tiempo duro la guerra de los 100 años?</PreguntaTexto>
+		<Opcion1>100 años</Opcion1>
+		<Opcion2>116 años</Opcion2>
+		<Opcion3>99 años</Opcion3>
+		<Respuesta>116 años</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De que color eran las mangas del chaleco blanco de Napoleon?</PreguntaTexto>
+		<Opcion1>Blancas</Opcion1>
+		<Opcion2>Azules</Opcion2>
+		<Opcion3>De Ningun Color</Opcion3>
+		<Respuesta>De Ningun Color</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué animal come con la cola?</PreguntaTexto>
+		<Opcion1>Ninguno</Opcion1>
+		<Opcion2>Todos</Opcion2>
+		<Opcion3>El Chango</Opcion3>
+		<Respuesta>Todos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Si un gallo se pone arriba de un poste, con el pico hacia el norte y la cola hacia el sur y pone un huevo, ¿Hacia donde cae el huevo? </PreguntaTexto>
+		<Opcion1>Hacia el Norte</Opcion1>
+		<Opcion2>Hacia el Sur</Opcion2>
+		<Opcion3>Hacia Ningun Lado</Opcion3>
+		<Respuesta>Hacia Ningun Lado</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántos animales metio Moises en el arca?</PreguntaTexto>
+		<Opcion1>2 de cada especie</Opcion1>
+		<Opcion2>1 de cada especie</Opcion2>
+		<Opcion3>Ninguno</Opcion3>
+		<Respuesta>Ninguno</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Que mes tiene 28 dias?</PreguntaTexto>
+		<Opcion1>Febero, pero si es bisiesto tiene 29</Opcion1>
+		<Opcion2>Marzo</Opcion2>
+		<Opcion3>Todos</Opcion3>
+		<Respuesta>Todos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Es legal en el estado de Zacatecas que un hombre se case con la hermana de su viuda?</PreguntaTexto>
+		<Opcion1>Si porque como ya enviudo pues esta libre</Opcion1>
+		<Opcion2>No, es completamente ilegal.</Opcion2>
+		<Opcion3>Depende de las leyes de Zacatecas</Opcion3>
+		<Respuesta>No, es completamente ilegal.</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Porqué no se puede enterrar a una persona que vive en la colonia del valle al norte del canal del río Santa Catarina en la ciudad de Monterrey?</PreguntaTexto>
+		<Opcion1>Porque no esta muerta.</Opcion1>
+		<Opcion2>Porque no hay un panteon cerca de ahí</Opcion2>
+		<Opcion3>No, porque en Monterrey no esta ese rio</Opcion3>
+		<Respuesta>Porque no esta muerta.</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Si un tren electrico va hacia el norte, y el viento sopla hacia el sur, hacia donde va el humo?</PreguntaTexto>
+		<Opcion1>Hacia el Norte</Opcion1>
+		<Opcion2>Hacia el Sur</Opcion2>
+		<Opcion3>Hacia Ningun Lado</Opcion3>
+		<Respuesta>Hacia Ningun Lado</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Se puede escribir una raya negra con un lapicero rojo?</PreguntaTexto>
+		<Opcion1>No se puede, el lapicero es rojo</Opcion1>
+		<Opcion2>Si solo lo escibes y ya</Opcion2>
+		<Opcion3>Depende del grueso del Lapiz</Opcion3>
+		<Respuesta>Si solo lo escibes y ya</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Si en una carrera de 100 metros planos adelantas al segundo lugar,  ¿en qué posición quedas?</PreguntaTexto>
+		<Opcion1>Primer Lugar</Opcion1>
+		<Opcion2>Segundo Lugar</Opcion2>
+		<Opcion3>Ganas la carrera</Opcion3>
+		<Respuesta>Segundo Lugar</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Si en una carrera de 100 metros planos adelantas al ultimo lugar ¿en que posicion quedas?</PreguntaTexto>
+		<Opcion1>Ultimo Lugar</Opcion1>
+		<Opcion2>Penultimo Lugar</Opcion2>
+		<Opcion3>No se puede adelantar al Ultimo Lugar</Opcion3>
+		<Respuesta>No se puede adelantar al Ultimo Lugar</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué es más barato: invitar a un amigo al fútbol dos veces o invitar a dos amigos una vez?</PreguntaTexto>
+		<Opcion1>Es lo mismo</Opcion1>
+		<Opcion2>Invitar a un amigo 2 veces</Opcion2>
+		<Opcion3>Invitar a 2 amigos una vez</Opcion3>
+		<Respuesta>Invitar a 2 amigos una vez</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Si  dos hombres se demoran 3 horas y media en hacer dos agujeros de 1 metro de profundidad. ¿Cuánto demoraría un solo hombre en hacer medio agujero? </PreguntaTexto>
+		<Opcion1>Media Hora</Opcion1>
+		<Opcion2>1 Hora</Opcion2>
+		<Opcion3>No se puede hacer</Opcion3>
+		<Respuesta>No se puede hacer</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Cuatro gatos en un cuarto, cada gato en un rincón, cada gato ve tres gatos, adivina ¿cuántos gatos son?</PreguntaTexto>
+		<Opcion1>12</Opcion1>
+		<Opcion2>4</Opcion2>
+		<Opcion3>9</Opcion3>
+		<Respuesta>4</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>iba yo para Villa Vieja, cuando me encontré con siete viejas. Cada vieja con un saco, cada saco llevaba tres ovejas. ¿Cuántas viejas iban hacia Villa la Vieja?</PreguntaTexto>
+		<Opcion1>Ninguna</Opcion1>
+		<Opcion2>21</Opcion2>
+		<Opcion3>7</Opcion3>
+		<Respuesta>Ninguna</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Se estrella un avion en medio del puente internacional que conecta a Guatemala con venezuela ¿En que lado enterraran a los sobrevivientes?</PreguntaTexto>
+		<Opcion1>En ningun lado</Opcion1>
+		<Opcion2>Guatemala</Opcion2>
+		<Opcion3>Venezuela</Opcion3>
+		<Respuesta>En ningun lado</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Habia 7 pajaros volando y cantando. Uno se calló. ¿ Cuantos pajaros quedan?</PreguntaTexto>
+		<Opcion1>7</Opcion1>
+		<Opcion2>6</Opcion2>
+		<Opcion3>Ninguno</Opcion3>
+		<Respuesta>7</Respuesta>
+	</Pregunta>
+</ArrayOfPregunta>

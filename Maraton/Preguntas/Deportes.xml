@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfPregunta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Pregunta>
+		<PreguntaTexto>¿En donde se realizaron los juegos olimpicos de 1992?</PreguntaTexto>
+		<Opcion1>Barcelona</Opcion1>
+		<Opcion2>Madrid </Opcion2>
+		<Opcion3>Sevilla</Opcion3>
+		<Respuesta>Barcelona</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cómo se llama el tablero del juego de damas?</PreguntaTexto>
+		<Opcion1>Cuadridulo</Opcion1>
+		<Opcion2>Damero</Opcion2>
+		<Opcion3>Diagrama</Opcion3>
+		<Respuesta>Damero</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál era el verdadero nombre del boxeador Mohamed Ali?</PreguntaTexto>
+		<Opcion1>Casious Clay</Opcion1>
+		<Opcion2>Anthony Rey</Opcion2>
+		<Opcion3>James Brown</Opcion3>
+		<Respuesta>Casious Clay</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En donde se celebraron los primeros juegos Olimipicos?</PreguntaTexto>
+		<Opcion1>Grecia</Opcion1>
+		<Opcion2>Italia</Opcion2>
+		<Opcion3>Francia</Opcion3>
+		<Respuesta>Grecia</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es apellido de 2 hermanos mexicanos varias veces campeones de la Formula 1?</PreguntaTexto>
+		<Opcion1>Hermanos Vazquez</Opcion1>
+		<Opcion2>Hermanos Rodriguez</Opcion2>
+		<Opcion3>Hermanos Fernandez</Opcion3>
+		<Respuesta>Hermanos Rodriguez</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el unico pais que a participado en todas las copas del mundo de futbol?</PreguntaTexto>
+		<Opcion1>Brasil</Opcion1>
+		<Opcion2>Alemania</Opcion2>
+		<Opcion3>Italia</Opcion3>
+		<Respuesta>Brasil</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que año se celebro la primera copa mundial de futbol?</PreguntaTexto>
+		<Opcion1>1934</Opcion1>
+		<Opcion2>1938</Opcion2>
+		<Opcion3>1930</Opcion3>
+		<Respuesta>1930</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De cuantos jugadores se compone un equipo de Beisbol?</PreguntaTexto>
+		<Opcion1>12</Opcion1>
+		<Opcion2>11</Opcion2>
+		<Opcion3>9</Opcion3>
+		<Respuesta>9</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el puntaje maximo que se puede obtener en un juego de boliche?</PreguntaTexto>
+		<Opcion1>300 puntos</Opcion1>
+		<Opcion2>250 puntos</Opcion2>
+		<Opcion3>200 puntos</Opcion3>
+		<Respuesta>300 puntos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De que nacionalidad es el tenista Bjorn Borg?</PreguntaTexto>
+		<Opcion1>Estados Unidos</Opcion1>
+		<Opcion2>Francia</Opcion2>
+		<Opcion3>Suecia</Opcion3>
+		<Respuesta>Suecia</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿A que cantidad de puntos se juega un partido de Canasta Uruguaya?</PreguntaTexto>
+		<Opcion1>1000</Opcion1>
+		<Opcion2>3000</Opcion2>
+		<Opcion3>5000</Opcion3>
+		<Respuesta>5000</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el nombre del trofeo que se le otorga al ganador del Super Tazon de Futbol Americano Profesional?</PreguntaTexto>
+		<Opcion1>Heisman</Opcion1>
+		<Opcion2>Vince Lombardi</Opcion2>
+		<Opcion3>Don Shula</Opcion3>
+		<Respuesta>Vince Lombardi</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántos torneos en el año componen el Grand Slam?</PreguntaTexto>
+		<Opcion1>3</Opcion1>
+		<Opcion2>4</Opcion2>
+		<Opcion3>5</Opcion3>
+		<Respuesta>4</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que pais se celebro la primera copa mundial de Futbol?</PreguntaTexto>
+		<Opcion1>Brasil</Opcion1>
+		<Opcion2>Uruguay</Opcion2>
+		<Opcion3>Paraguay</Opcion3>
+		<Respuesta>Uruguay</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que pais se celebro el Mundial de Futbol en 1986?</PreguntaTexto>
+		<Opcion1>Italia</Opcion1>
+		<Opcion2>Estados Unidos</Opcion2>
+		<Opcion3>México</Opcion3>
+		<Respuesta>México</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántos medallas gano Marck Spitz en las olimpiadas de Munich 72?</PreguntaTexto>
+		<Opcion1>7</Opcion1>
+		<Opcion2>9</Opcion2>
+		<Opcion3>5</Opcion3>
+		<Respuesta>7</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué equipos de futbol protagonizaron el famoso "Partido del Siglo"?</PreguntaTexto>
+		<Opcion1>Italia y Brasil</Opcion1>
+		<Opcion2>Italia y Alemania</Opcion2>
+		<Opcion3>Brasil y Argentina</Opcion3>
+		<Respuesta>Italia y Alemania</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De cuantas disciplinas consta el decatlon en Atletismo?</PreguntaTexto>
+		<Opcion1>9</Opcion1>
+		<Opcion2>10</Opcion2>
+		<Opcion3>11</Opcion3>
+		<Respuesta>10</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántos Hoyos hay en un campo de Golf?</PreguntaTexto>
+		<Opcion1>15</Opcion1>
+		<Opcion2>18</Opcion2>
+		<Opcion3>21</Opcion3>
+		<Respuesta>18</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿A que equipo de futbol español se les conoce como los merengues?</PreguntaTexto>
+		<Opcion1>Sevilla</Opcion1>
+		<Opcion2>Valencia</Opcion2>
+		<Opcion3>Real Madrid</Opcion3>
+		<Respuesta>Real Madrid</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuál es el nombre del primer atleta en recorrer 100 metros planos en 10 segundos?</PreguntaTexto>
+		<Opcion1>Bob Hayes</Opcion1>
+		<Opcion2>Ben Johnson</Opcion2>
+		<Opcion3>Carl Lewis</Opcion3>
+		<Respuesta>Carl Lewis</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cómo apodaban al famoso torero mexicano Silverio Perez?</PreguntaTexto>
+		<Opcion1>El Juli</Opcion1>
+		<Opcion2>El Faraon </Opcion2>
+		<Opcion3>El Pelusa</Opcion3>
+		<Respuesta>El Faraon </Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué otro deporte practico Michael Jordan ademas del Basquetbol?</PreguntaTexto>
+		<Opcion1>Beisbol</Opcion1>
+		<Opcion2>Futbol</Opcion2>
+		<Opcion3>Tenis</Opcion3>
+		<Respuesta>Beisbol</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuándo dura cada tiempo en un partido de Futbol Soccer?</PreguntaTexto>
+		<Opcion1>40 minutos</Opcion1>
+		<Opcion2>45 minutos</Opcion2>
+		<Opcion3>60 minutos</Opcion3>
+		<Respuesta>45 minutos</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿A que deporte se le conoce como el "deporte blanco"?</PreguntaTexto>
+		<Opcion1>Golf</Opcion1>
+		<Opcion2>Tenis</Opcion2>
+		<Opcion3>Beisbol</Opcion3>
+		<Respuesta>Tenis</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué significado tiene en el ajedrez la palabra "Jaque Mate"?</PreguntaTexto>
+		<Opcion1>El rey esta muerto</Opcion1>
+		<Opcion2>Fin de la Partida</Opcion2>
+		<Opcion3>Viva el rey</Opcion3>
+		<Respuesta>El rey esta muerto</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Qué jugador falló 3 pénaltis en un solo partido de 2 selecciones nacionales?</PreguntaTexto>
+		<Opcion1>Martín Palermo</Opcion1>
+		<Opcion2>Jared Borguetti</Opcion2>
+		<Opcion3>Roberto Baggio</Opcion3>
+		<Respuesta>Martín Palermo</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿Cuántas veces fue campeon de Formula 1 el piloto Michael Schumacher?</PreguntaTexto>
+		<Opcion1>5</Opcion1>
+		<Opcion2>8</Opcion2>
+		<Opcion3>7</Opcion3>
+		<Respuesta>7</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿En que pais se invento el juego de Mesa "Maraton"?</PreguntaTexto>
+		<Opcion1>Estados Unidos</Opcion1>
+		<Opcion2>Colombia</Opcion2>
+		<Opcion3>México</Opcion3>
+		<Respuesta>México</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>¿De cuantos jugadores consta un equipo de Futbol Soccer?</PreguntaTexto>
+		<Opcion1>14</Opcion1>
+		<Opcion2>11</Opcion2>
+		<Opcion3>12</Opcion3>
+		<Respuesta>11</Respuesta>
+	</Pregunta>
+	<Pregunta>
+		<PreguntaTexto>Brasil,Italia, Alemania, Argentina, Inglaterra y Francia todos ellos han sido campeones del mundo de Futbol, falta uno, ¿Cuál es?</PreguntaTexto>
+		<Opcion1>Holanda</Opcion1>
+		<Opcion2>Uruguay</Opcion2>
+		<Opcion3>España</Opcion3>
+		<Respuesta>Uruguay</Respuesta>
+	</Pregunta>
+</ArrayOfPregunta>
